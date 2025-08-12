@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Topics of the posts
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+The method to measure the overlap between two different quantum states/Classical and Quantum Ansatz
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 

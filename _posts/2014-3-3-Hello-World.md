@@ -3,7 +3,7 @@ layout: post
 title: Topics of the posts
 ---
 
-The method to measure the overlap between two different quantum states/Classical and Quantum Ansatz
+The method to measure the overlap between two different quantum states/Classical and Quantum Ansatz/History of Quantum Mechanics
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
